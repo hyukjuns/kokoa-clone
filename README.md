@@ -1,4 +1,11 @@
-# kokoa
-2021.08.16 #6.13 - navigation bar completed
-<br>2021.09.05 #6.14 - screen header completed
-<br>20201.10.03 finish
+# kokoa clone - NomadCoder
+[노마드 코더](https://nomadcoders.co/)에서 진행한 카카오톡 클론 프로젝트
+## Language
+  - HTML5
+  - CSS3
+## IDE
+- VSCODE
+## Publish
+- Github Pages
+- Finished at 2021.10.03
+- [Site](https://hyukjuns.github.io/kokoa/)
